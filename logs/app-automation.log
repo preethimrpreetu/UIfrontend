@@ -1,0 +1,304 @@
+2024-08-07 18:45:16,490 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,495 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,496 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,497 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,497 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,497 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,498 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,499 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,506 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-08-07 18:45:16,517 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2024-08-07 18:45:16,519 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,519 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,520 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,520 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,521 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,521 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,522 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,522 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,523 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,523 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,527 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,527 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,527 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,527 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,528 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,529 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,530 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,531 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,531 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:45:16,531 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:45:16,539 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\AppData\Local\Temp\testng-eclipse--321415708\testng-customsuite.xml
+
+2024-08-07 18:45:16,559 INFO o.t.i.Utils[main] [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-08-07 18:45:27,849 INFO T.TC001_AccountRegistrationTest[main] started login
+2024-08-07 18:45:31,228 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.jq.Main@5c10285a: 144 ms
+2024-08-07 18:45:31,230 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.FailedReporter@6b667cb3: 1 ms
+2024-08-07 18:45:31,250 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.XMLReporter@12aa4996: 20 ms
+2024-08-07 18:45:31,266 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5782d777: 16 ms
+2024-08-07 18:45:31,282 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@363f0ba0: 14 ms
+2024-08-07 18:45:31,283 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@35fb22a9: 0 ms
+2024-08-07 18:47:33,698 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-08-07 18:47:33,707 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-08-07 18:47:33,710 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:47:33,710 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:47:33,711 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:47:33,712 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:47:33,713 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:47:33,713 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:47:33,726 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2024-08-07 18:47:33,742 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2024-08-07 18:47:33,745 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:47:33,746 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:47:33,748 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:47:33,749 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:47:33,750 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:47:33,750 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:47:33,753 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:47:33,753 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:47:33,754 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:47:33,754 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:47:33,759 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:47:33,760 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:47:33,760 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:47:33,760 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:47:33,762 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:47:33,763 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:47:33,765 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:47:33,766 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:47:33,766 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:47:33,766 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:47:33,782 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\AppData\Local\Temp\testng-eclipse--880673687\testng-customsuite.xml
+
+2024-08-07 18:47:33,814 INFO o.t.i.Utils[main] [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-08-07 18:47:38,523 INFO T.TC001_AccountRegistrationTest[main] started login
+2024-08-07 18:47:43,524 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.jq.Main@328902d5: 159 ms
+2024-08-07 18:47:43,539 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.FailedReporter@35dd9ed3: 15 ms
+2024-08-07 18:47:43,553 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.XMLReporter@65f58c6e: 13 ms
+2024-08-07 18:47:43,565 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7c2312fa: 12 ms
+2024-08-07 18:47:43,578 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@22367b8: 13 ms
+2024-08-07 18:47:43,579 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@41b0ae4c: 0 ms
+2024-08-07 18:49:03,039 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,045 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,047 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,047 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,048 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,048 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,049 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,049 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,058 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2024-08-07 18:49:03,070 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2024-08-07 18:49:03,072 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,073 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,074 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,074 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,075 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,075 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,077 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,077 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,077 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,078 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,081 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,082 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,082 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,082 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,083 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,083 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,085 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,085 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,085 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-07 18:49:03,085 INFO o.t.i.Utils[main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-07 18:49:03,096 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\AppData\Local\Temp\testng-eclipse--545017760\testng-customsuite.xml
+
+2024-08-07 18:49:03,125 INFO o.t.i.Utils[main] [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2024-08-07 18:49:08,386 INFO T.TC001_AccountRegistrationTest[main] started login
+2024-08-07 18:49:11,940 INFO T.TC001_AccountRegistrationTest[main] Successfully completed registration
+2024-08-07 18:49:12,265 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.jq.Main@627d8516: 85 ms
+2024-08-07 18:49:12,266 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.FailedReporter@5c10285a: 1 ms
+2024-08-07 18:49:12,278 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.XMLReporter@4bb003e9: 12 ms
+2024-08-07 18:49:12,287 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@23202c31: 9 ms
+2024-08-07 18:49:12,295 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@8ff5094: 8 ms
+2024-08-07 18:49:12,295 INFO o.t.i.Utils[main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@363f0ba0: 0 ms
+2024-08-07 21:49:28,802 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-07 21:49:40,829 INFO T.TC001_AccountRegistrationTest[main] started login
+2024-08-07 21:49:42,978 INFO T.TC001_AccountRegistrationTest[main] Successfully completed registration
+2024-08-07 21:50:01,928 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-07 21:50:14,846 INFO T.TC001_AccountRegistrationTest[main] started login
+2024-08-07 21:50:16,792 INFO T.TC001_AccountRegistrationTest[main] Successfully completed registration
+2024-08-07 22:03:49,589 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-07 22:03:55,805 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-07 22:03:57,373 INFO T.TC001_AccountRegistrationTest[TestNG-tests-2] started login
+2024-08-07 22:03:57,798 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-07 22:03:59,652 INFO T.TC001_AccountRegistrationTest[TestNG-tests-2] Successfully completed registration
+2024-08-07 22:20:56,671 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-07 22:21:00,345 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-07 22:21:01,672 INFO T.TC001_AccountRegistrationTest[TestNG-tests-2] started login
+2024-08-07 22:21:02,485 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-07 22:21:03,753 INFO T.TC001_AccountRegistrationTest[TestNG-tests-2] Successfully completed registration
+2024-08-07 22:38:39,652 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-07 22:38:44,420 INFO T.TC001_AccountRegistrationTest[TestNG-tests-2] started login
+2024-08-07 22:38:45,137 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-07 22:38:46,332 INFO T.TC001_AccountRegistrationTest[TestNG-tests-2] Successfully completed registration
+2024-08-07 22:38:47,277 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-07 22:48:48,021 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-07 22:48:52,518 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-07 22:48:53,732 INFO T.TC001_AccountRegistrationTest[TestNG-tests-2] started login
+2024-08-07 22:48:54,502 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-07 22:48:56,112 INFO T.TC001_AccountRegistrationTest[TestNG-tests-2] Successfully completed registration
+2024-08-12 16:52:25,563 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-12 16:52:31,390 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-12 16:52:33,109 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-12 16:58:05,229 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-12 16:58:08,930 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-12 16:58:10,793 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-12 16:58:15,530 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-13 11:52:18,313 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 11:56:50,672 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 11:56:56,186 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-13 11:56:57,904 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-13 11:57:02,120 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-13 11:57:39,272 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 11:57:43,457 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-13 14:30:21,829 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 14:30:29,072 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-13 14:31:00,129 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 14:31:04,901 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-13 14:47:32,608 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 14:47:37,146 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-13 14:49:41,320 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 14:49:47,480 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-13 14:50:39,907 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 14:50:44,081 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-13 14:50:46,973 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-13 14:52:48,970 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 14:52:52,553 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-13 14:52:55,019 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-13 15:03:13,149 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 15:03:16,942 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-13 15:03:20,320 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-13 15:04:16,284 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 15:04:19,940 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-13 15:04:22,934 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-13 15:07:13,869 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 15:07:18,036 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-13 15:07:20,704 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-13 15:07:25,606 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-13 16:07:59,121 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 16:08:06,392 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-13 16:08:08,125 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-13 16:09:00,186 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 16:09:05,012 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-13 16:09:06,926 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-13 16:09:10,909 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-13 16:09:34,771 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 16:09:37,690 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-13 16:09:39,681 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-13 16:10:46,628 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\test-output\testng-failed.xml
+
+2024-08-13 16:10:51,018 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-13 16:12:00,474 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-13 16:12:03,502 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-13 16:12:05,364 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-13 16:12:09,306 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-19 20:26:44,292 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-19 20:26:54,905 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-19 20:26:56,452 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-20 18:05:18,085 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\groupsXml.xml
+
+2024-08-20 18:05:23,042 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] started login
+2024-08-20 18:05:24,639 INFO T.TC001_AccountRegistrationTest[TestNG-tests-1] Successfully completed registration
+2024-08-20 18:08:32,771 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-20 18:09:36,301 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-20 18:12:07,246 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-20 18:12:50,357 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-20 18:14:39,651 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-20 18:16:16,797 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-20 18:16:22,699 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-20 21:33:05,605 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-20 21:33:14,902 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-20 21:35:23,045 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-20 21:35:28,073 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-20 21:36:54,157 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-20 21:37:00,092 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-20 21:39:26,708 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-20 21:39:31,702 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-27 12:05:09,920 INFO o.t.i.Utils[main] [TestNG] Running:
+  C:\Users\G\eclipse-workspace\SeleniumUpdatedFramework\testng.xml
+
+2024-08-27 12:05:23,579 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in
+2024-08-27 12:35:00,106 INFO T.TC002_LoginTest[TestNG-tests-1] successfully logged in

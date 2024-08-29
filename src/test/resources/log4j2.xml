@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="debug">
+<!-- logging properties-->
+  <Properties>
+    <Property name="APP_LOG_ROOT">./logs</Property>
+     <Property name="LOG_PATTERN">%d %p %c{1.}[%t] %m%n</Property>
+  </Properties>
+  
+  <Appenders>
+  <!-- Console Appender-->
+  <Console name="Console" target="SYSTEM_OUT">
+  <PatternLayout pattern="${LOG_PATTERN}"/>
+  </Console>
+  
+  <!-- File Appender-->
+  <RollingFile name = "File" fileName="${APP_LOG_ROOT}/app-automation.log"
+  filePattern="${APP_LG_ROOT}/app-info-%d.log">
+  <PatternLayout pattern="${LOG_PATTERN}"/>
+  <Policies>
+  <SizeBasedTriggeringPolicy size="5MB"/>
+  </Policies>
+  </RollingFile>
+  </Appenders>
+  
+  <Loggers>
+  <Root level="INFO">
+  <AppenderRef ref="File"/>
+  </Root>
+  </Loggers>
+  
+  
+  </Configuration>
